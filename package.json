@@ -1,0 +1,11 @@
+{
+  "name": "towebp",
+  "version": "1.0.0",
+  "description": "convert to webp from context menu",
+  "main": "index.js",
+  "author": "https://github.com/444ndrey",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}
