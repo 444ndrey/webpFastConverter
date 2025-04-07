@@ -5,7 +5,7 @@ A Node.js utility to convert images to the WebP format directly from the **Windo
 ## Features
 - Convert images to WebP using the `sharp` library.
 - Integrates with Windows 11 context menu.
-- Supports `.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`, `.tiff`.
+- Supports `.jpg`, `.jpeg`, `.png`, `.bmp`
 
 ## Getting Started
 
